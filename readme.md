@@ -8,3 +8,4 @@
 1. Run the commands in the `loaddata.sql` file to create the tables in the database
 <!-- TODO: As more of the project is filled in add the other steps to get this project running -->
 
+# rare_api_review
